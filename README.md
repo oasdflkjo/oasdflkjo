@@ -21,7 +21,7 @@ https://github.com/oasdflkjo/pyhton-web-scraping
 
 --- 
 
-Currently botting hitas apartments in helsinki.
+Currently botting hitas apartments
 - google cloud VM
 - Crontab
 - Python using `requests`, `smtplib` and `ssl`
