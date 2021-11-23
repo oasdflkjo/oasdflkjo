@@ -4,7 +4,7 @@ I’m finishing my embedded systems studies at VAMK.
 
 ---
 
-My current school project
+### My current school project
 - STM32
 - UCOS3
 - 16x2 LCD task
@@ -13,16 +13,18 @@ https://github.com/oasdflkjo/stm32-demo
 
 ---
 
-Python Web scraping
+### Python Web scraping
+
 - Sending HTTP get messages with `requests`
 - `BeautifulSoup` and `regex` manipulation on the response
 
 https://github.com/oasdflkjo/pyhton-web-scraping
 
---- 
+---
 
-Currently botting hitas apartments
-- google cloud VM
+### Currently botting hitas apartments
+
+- Google cloud VM
 - Crontab
 - Python using `requests`, `smtplib` and `ssl`
 
