@@ -8,6 +8,7 @@ My current school project
 - STM32
 - UCOS3
 - 16x2 LCD task
+
 https://github.com/oasdflkjo/stm32-demo
 
 ---
