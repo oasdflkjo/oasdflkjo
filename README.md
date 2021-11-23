@@ -22,11 +22,16 @@ https://github.com/oasdflkjo/pyhton-web-scraping
 --- 
 
 Currently botting hitas apartments in helsinki.
-- Google cloud
-- Ubuntu 20.4 LTS
-  - Crontab
+- google cloud VM
+- f1-micro
+- Ubuntu 20.4 LTE
+- Crontab
 - Python
-  -  `requests`
+    - `requests`
+    - `smtplib`
+    - `ssl`
+
+https://github.com/oasdflkjo/hitas-email-alert
 <!---
 oasdflkjo/oasdflkjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
