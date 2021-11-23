@@ -1,6 +1,6 @@
 Hi, I’m @oasdflkjo.
 
-I’m currently studying embedded programming.
+I’m currently finishing my embedded system studies at VAMK.
 
 ---
 
