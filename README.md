@@ -23,13 +23,8 @@ https://github.com/oasdflkjo/pyhton-web-scraping
 
 Currently botting hitas apartments in helsinki.
 - google cloud VM
-- f1-micro
-- Ubuntu 20.4 LTE
 - Crontab
-- Python
-    - `requests`
-    - `smtplib`
-    - `ssl`
+- Python using `requests`, `smtplib` and `ssl`
 
 https://github.com/oasdflkjo/hitas-email-alert
 <!---
