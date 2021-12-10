@@ -16,7 +16,7 @@ https://github.com/oasdflkjo/ESP32-Learning
 
 ### My last school project
 - STM32
-- UCOS3
+- μC/OS-III
 - 16x2 LCD task
 
 https://github.com/oasdflkjo/stm32-demo
