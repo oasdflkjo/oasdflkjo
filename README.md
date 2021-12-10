@@ -1,4 +1,4 @@
-Hi, I’m @oasdflkjo.
+Hi, I’m oasdflkjo.
 
 I’m finishing my embedded systems studies at VAMK.
 
