@@ -13,12 +13,12 @@ https://github.com/oasdflkjo/stm32-demo
 
 ---
 
-### Python Web scraping
+### ESP32 Learning
 
-- Sending HTTP get messages with `requests`
-- `BeautifulSoup` and `regex` manipulation on the response
+- Building guide page on [notion](https://opalescent-burrito-086.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
+- Documenting my progress and hopefully helping someone in the process :)
 
-https://github.com/oasdflkjo/pyhton-web-scraping
+https://github.com/oasdflkjo/ESP32-Learning
 
 ---
 
