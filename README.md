@@ -4,16 +4,7 @@ I’m finishing my embedded systems studies at VAMK.
 
 ---
 
-### My current school project
-- STM32
-- UCOS3
-- 16x2 LCD task
-
-https://github.com/oasdflkjo/stm32-demo
-
----
-
-### ESP32 Learning
+### Currently learning ESP32 
 
 - Building guide page on [notion](https://opalescent-burrito-086.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
 - Documenting my progress and hopefully helping someone in the process
@@ -22,7 +13,16 @@ https://github.com/oasdflkjo/ESP32-Learning
 
 ---
 
-### Currently botting hitas apartments
+### My last school project
+- STM32
+- UCOS3
+- 16x2 LCD task
+
+https://github.com/oasdflkjo/stm32-demo
+
+---
+
+### Botting hitas apartments
 
 - Google cloud VM
 - Crontab
