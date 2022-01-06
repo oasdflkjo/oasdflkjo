@@ -15,7 +15,7 @@ https://petripihla.com
 
 ### ESP32 learning
 
-- Building guide page on [notion](https://opalescent-burrito-086.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
+- Building guide page on [notion](https://esp32-learning.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
 - Documenting my progress and hopefully helping someone in the process
 - `I2C` `SSD1306` `WIFI` `SQL`
 
