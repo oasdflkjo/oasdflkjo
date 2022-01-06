@@ -4,7 +4,16 @@ I’m finishing my embedded systems studies at VAMK.
 
 ---
 
-### Currently learning ESP32 
+### Nocode website
+
+- Testing "nocode" environment to cv/blog page.
+
+https://petripihla.com
+
+---
+---
+
+### ESP32 learning
 
 - Building guide page on [notion](https://opalescent-burrito-086.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
 - Documenting my progress and hopefully helping someone in the process
