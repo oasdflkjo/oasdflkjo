@@ -6,7 +6,7 @@ I’m finishing my embedded systems studies at VAMK.
 
 ### Nocode website
 
-- Testing "nocode" environment to cv/blog page.
+- Testing nocode environment to cv/blog page.
 
 https://petripihla.com
 
