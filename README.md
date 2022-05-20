@@ -6,9 +6,11 @@ I’m finishing my embedded systems studies at VAMK.
 
 ### Nocode website
 
-- Testing nocode environment to cv/blog page.
 https://petripihla.notion.site/petripihla/Petri-Pihla-671b9520d46c4cc6a62a8552c0591213
+
+- Testing nocode environment to cv/blog page.
 - stopped hosting on p2w platforms but it was a nice experience
+
 
 ---
 ---
