@@ -8,7 +8,7 @@ I’m finishing my embedded systems studies at VAMK.
 
 - Testing nocode environment to cv/blog page.
 
-https://petripihla.com
+https://www.petripihla.com
 
 ---
 ---
