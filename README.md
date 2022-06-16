@@ -1,6 +1,6 @@
 Hi, I’m Petri Pihla.
 
-I’m currently working as a software _(firmware)_ developper at **Danfoss** Vaasa. I'm also doing my bachelor's thesis for Danfoss. I hope to have my degree from **VAMK** done next summer(2023).
+I’m currently working as a software _(firmware)_ developper at **Danfoss** Vaasa. I'm also doing my bachelor's thesis for Danfoss. I hope to have my degree from **VAMK** done next summer (2023).
 
 I have mainly focused on `C` and `STM32`. But I have also stumbled upon some light web development and some `SQL` stuff. Windows is my go to OS because of music production, but I'm allso familliar with `Linux` environments. 
 
