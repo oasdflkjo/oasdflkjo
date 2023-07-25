@@ -4,6 +4,8 @@ At **Danfoss**, my work centers around `C` and `STM32`. In addition, I've explor
 
 Alongside these, I have familiarity with `Azure` and `GIT`, and maintain a surface-level understanding of `CI/CD` pipelines and `HIL` testing.
 
+I've been reseraching OpenAI's `GPT-4` a lot recently. It's been helpful for brainstorming and finding information. I've also tested its ability to generate code, which is quite interesting.
+
 ## Old projects
 ### Botting hitas apartments
 
