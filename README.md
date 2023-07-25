@@ -1,16 +1,10 @@
-Hi, I’m Petri Pihla.
+# Petri Pihla
 
-I’m currently working as a firmware developper at **Danfoss** Vaasa. I'm also doing my bachelor's thesis for Danfoss. I hope to have my degree from **VAMK** done next summer (2023).
+At **Danfoss**, my work centers around `C` and `STM32`. In addition, I've explored web development, leading to experiences with managing servers on `Google/AWS cloud` and conducting light web scraping using `Python`.
 
-I have mainly focused on `C` and `STM32`. But I have also stumbled upon some light web development and some `SQL` stuff. Windows is my go to OS because of music production, but I'm allso familliar with `Linux` environments. 
+Alongside these, I have familiarity with `Azure` and `GIT`, and maintain a surface-level understanding of `CI/CD` pipelines and `HIL` testing.
 
-Well at least I can spawn my own servers in `Googles/AWS cloud` and do some light webscraping with `Python`.
-
-I have worked with `Azures` `GIT` stuff and have surface level understanding on `CI` pipelines.
-
-TODO: learn to write maby :)
-
-## Projects
+## Old projects
 ### Botting hitas apartments
 
 - Google cloud VM
@@ -28,7 +22,7 @@ www.petripihla.com
 
 ### ESP32 learning documentation
 
-- Just bought random devboards from Amazon
+- Random devboards from https://www.az-delivery.de
 - Tinkering around with `platform.io`
 
 [Link to notion](https://petripihla.notion.site/Documentation-on-learning-AZdelivery-ESP32-7c989c99efdb4e3baf163230b9445598)
