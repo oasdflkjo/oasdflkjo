@@ -7,6 +7,13 @@ Alongside these, I have familiarity with `Azure` and `GIT`, and maintain a surfa
 I've been reseraching OpenAI's `GPT-4` a lot recently. It's been helpful for brainstorming and finding information. I've also tested its ability to generate code, which is quite interesting.
 
 ## Old projects
+
+### Fastish C project
+- Raylib
+- SIMD
+- Multithread
+https://github.com/oasdflkjo/raylib-toy
+
 ### Botting hitas apartments
 
 - Google cloud VM
