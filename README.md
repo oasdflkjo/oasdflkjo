@@ -12,6 +12,7 @@ I've been reseraching OpenAI's `GPT-4` a lot recently. It's been helpful for bra
 - Raylib
 - SIMD
 - Multithread
+
 https://github.com/oasdflkjo/raylib-toy
 
 ### Botting hitas apartments
