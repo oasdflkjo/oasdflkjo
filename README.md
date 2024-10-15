@@ -11,6 +11,7 @@ I've been reseraching OpenAI's `GPT-4` a lot recently. It's been helpful for bra
 ### Graphics programming with compute shaders
 - C
 - GLSL
+
 [https://www.youtube.com/@oasdflkjo](https://www.youtube.com/@oasdflkjo/videos)
 
 ### Fastish C project
