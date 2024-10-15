@@ -1,6 +1,6 @@
 # Petri Pihla
 
-Enjoying building fast, efficient, and creative coding projects.
+Enjoying building fast, efficient, and creative things.
 
 ## Projects
 
