@@ -1,10 +1,6 @@
 # Petri Pihla
 
-At **Danfoss**, my work centers around `C` and `STM32`. In addition, I've explored web development, leading to experiences with managing servers on `Google/AWS cloud` and conducting light web scraping using `Python`.
-
-Alongside these, I have familiarity with `Azure` and `GIT`, and maintain a surface-level understanding of `CI/CD` pipelines and `HIL` testing.
-
-I've been reseraching OpenAI's `GPT-4` a lot recently. It's been helpful for brainstorming and finding information. I've also tested its ability to generate code, which is quite interesting.
+Enjoying building fast, efficient, and creative coding projects.
 
 ## Projects
 
