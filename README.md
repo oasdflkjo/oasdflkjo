@@ -37,4 +37,5 @@ oasdflkjo/oasdflkjo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=oasdflkjo.oasdflkjo)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=oasdflkjo.readme) <!-- Replace with the correct username and repository name -->
+
