@@ -7,8 +7,7 @@ Enjoying building fast, efficient, and creative things.
 ### Graphics programming with compute shaders
 - C
 - GLSL
-
-[https://www.youtube.com/@oasdflkjo](https://www.youtube.com/@oasdflkjo/videos)
+[https://www.youtube.com/watch?v=ePBFPLigK5E](youtube)
 
 ### Dockerized STM32 project
 - Example project with command line tools
