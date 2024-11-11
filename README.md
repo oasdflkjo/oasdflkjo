@@ -7,6 +7,7 @@ Enjoying building fast, efficient, and creative things.
 ### Graphics programming with compute shaders
 - C
 - GLSL
+
 [YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E)
 
 ### Dockerized STM32 project
@@ -14,7 +15,7 @@ Enjoying building fast, efficient, and creative things.
 - Driver for ssd1306
 - Spinning cube ofc
 
-[https://github.com/oasdflkjo/raylib-toy](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
+[GitHub Repo](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
 
 ### Botting hitas apartments
 
