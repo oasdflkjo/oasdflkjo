@@ -10,12 +10,12 @@ Enjoying building fast, efficient, and creative things.
 
 [https://www.youtube.com/@oasdflkjo](https://www.youtube.com/@oasdflkjo/videos)
 
-### Fastish C project
-- Raylib
-- SIMD
-- Multithread
+### Dockerized STM32 project
+- Example project with command line tools
+- Driver for ssd1306
+- Spinning cube ofc
 
-https://github.com/oasdflkjo/raylib-toy
+[https://github.com/oasdflkjo/raylib-toy](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
 
 ### Botting hitas apartments
 
