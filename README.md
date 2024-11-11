@@ -8,7 +8,7 @@ Enjoying building fast, efficient, and creative things.
 - C
 - GLSL
 
-[YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) (for visual learners :))
+[YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners :)
 
 ### Dockerized STM32 project
 - Example project with command line tools
