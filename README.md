@@ -1,6 +1,6 @@
 # Petri Pihla
 
-Enjoying building fast, efficient, and creative things.
+Programming is a tool, not an artform to get lost in. The simpler the solution and architecture, the better the product.
 
 ## Projects
 
