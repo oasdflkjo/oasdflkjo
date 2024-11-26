@@ -11,7 +11,7 @@ Programming is a tool, not an artform to get lost in. The simpler the solution a
 [YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners :)
 
 ### Dockerized STM32 project
-- Example project with command line tools
+- Example of a "clean" STM32 project
 - Driver for ssd1306
 - Spinning cube ofc
 
