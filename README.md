@@ -1,6 +1,8 @@
 # Petri Pihla
 
-Programming is a tool, not an artform to get lost in. The simpler the solution and architecture, the better the product.
+1. make it work
+2. make it better 
+3. make it faster (if needed)
 
 ## Projects
 
