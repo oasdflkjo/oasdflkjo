@@ -12,6 +12,8 @@
 
 [YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners :)
 
+[GitHub Repo](https://github.com/oasdflkjo/engine)
+
 ### Dockerized STM32 project
 - Example of a "clean" STM32 project
 - Driver for ssd1306
