@@ -1,8 +1,11 @@
 # Petri Pihla
 
-1. make it work
-2. make it better 
-3. make it faster (if needed)
+```txt
+  ¯\_(ツ)_/¯  
+   Make it work.  
+   Make it better.  
+   Faster? Maybe.  
+```
 
 ## Projects
 
