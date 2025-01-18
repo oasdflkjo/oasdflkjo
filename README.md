@@ -12,7 +12,10 @@
 
 [YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners :)
 
-[GitHub Repo](https://github.com/oasdflkjo/engine)
+[PC GitHub Repo](https://github.com/oasdflkjo/engine)
+
+[Android GitHub Repo](https://github.com/oasdflkjo/Particles)
+
 
 ### Dockerized STM32 project
 - Example of a "clean" STM32 project
@@ -20,6 +23,12 @@
 - Spinning cube ofc
 
 [GitHub Repo](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
+
+### The metronome app
+- Got frustrated of trying to find metronome app that suits my needs
+- So ofc I made my own
+
+[GitHub Repo](https://github.com/oasdflkjo/MetronomeApp)
 
 ### Botting hitas apartments
 
