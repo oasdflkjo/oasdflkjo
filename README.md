@@ -24,7 +24,7 @@
 
 [GitHub Repo](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
 
-### The metronome app
+### The Metronome App
 - Got frustrated of trying to find metronome app that suits my needs
 - So ofc I made my own
 
