@@ -19,19 +19,12 @@
 
 [Android GitHub Repo](https://github.com/oasdflkjo/Particles)
 
-
 ### Dockerized STM32 project
 - Example of a "clean" STM32 project
 - Driver for ssd1306
 - Spinning cube ofc
 
 [GitHub Repo](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
-
-### The Metronome App
-- Got frustrated of trying to find metronome app that suits my needs
-- So ofc I made my own
-
-[GitHub Repo](https://github.com/oasdflkjo/MetronomeApp)
 
 ### Botting hitas apartments
 
