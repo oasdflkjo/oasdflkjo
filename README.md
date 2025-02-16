@@ -2,14 +2,20 @@
 
 ```txt
   ¯\_(ツ)_/¯  
-   Make it work.  
-   Make it better.  
-   Faster? Maybe.  
+   Make it work
+   Make it better 
+   Faster? Maybe 
 ```
 
 ## Projects
 
-### Graphics programming with compute shaders
+### 1. Terminal website
+
+- Hosted at GitHub
+
+www.petripihla.com
+
+### 2. Graphics programming with compute shaders
 - C
 - GLSL
 
@@ -19,27 +25,23 @@
 
 [Android GitHub Repo](https://github.com/oasdflkjo/Particles)
 
-### Dockerized STM32 project
+### 3. Dockerized STM32 project
 - Example of a "clean" STM32 project
 - Driver for ssd1306
 - Spinning cube ofc
 
 [GitHub Repo](https://github.com/oasdflkjo/stm32-docker-build/tree/feature/spinning-cube)
 
-### Botting hitas apartments
+### 4. Botting hitas apartments
 
 - Google cloud VM
 - Crontab
 - Python using `requests`, `smtplib` and `ssl`
+- Knew nothing back then, but it did what it had to 😅
 
-https://github.com/oasdflkjo/hitas-email-alert
+[GitHub Repo](https://github.com/oasdflkjo/hitas-email-alert)
 
-### Terminal website
 
-- Hosted at github pages
-- Domain from namecheap
-
-www.petripihla.com
 
 <!---
 oasdflkjo/oasdflkjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
