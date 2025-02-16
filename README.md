@@ -15,6 +15,8 @@
 
 www.petripihla.com
 
+[GitHub Repo](https://github.com/oasdflkjo/terminal)
+
 ### 2. Graphics programming with compute shaders
 - C
 - GLSL
