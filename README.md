@@ -21,7 +21,7 @@ www.petripihla.com
 - C
 - GLSL
 
-[YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners :)
+[YouTube](https://www.youtube.com/watch?v=ePBFPLigK5E) for visual learners
 
 [PC GitHub Repo](https://github.com/oasdflkjo/engine)
 
