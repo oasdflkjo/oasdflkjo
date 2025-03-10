@@ -13,7 +13,7 @@
 
 - Hosted at GitHub
 
-[petripihla.com](www.petripihla.com)
+[petripihla.com](https://www.petripihla.com)
 
 [GitHub Repo](https://github.com/oasdflkjo/terminal)
 
