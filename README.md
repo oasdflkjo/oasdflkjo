@@ -13,7 +13,7 @@
 
 - Hosted at GitHub
 
-www.petripihla.com
+[petripihla.com](www.petripihla.com)
 
 [GitHub Repo](https://github.com/oasdflkjo/terminal)
 
@@ -26,7 +26,6 @@ www.petripihla.com
 [PC GitHub Repo](https://github.com/oasdflkjo/engine)
 
 [Android GitHub Repo](https://github.com/oasdflkjo/Particles)
-
 
 [particles-app.xyz](https://particles-app.xyz/)
 
